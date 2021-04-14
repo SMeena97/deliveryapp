@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1070271602770-5vedtv2ejq7olhm524vaj3va57p7lis2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1070271602770</string>
+    <string name="google_api_key" translatable="false">AIzaSyAo8ah22KFdo3oX8z1npjK_1YkN3RKV_xk</string>
+    <string name="google_app_id" translatable="false">1:1070271602770:android:0b5b92cc44171f23f9bf8b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAo8ah22KFdo3oX8z1npjK_1YkN3RKV_xk</string>
+    <string name="google_storage_bucket" translatable="false">soudhi-a65a6.appspot.com</string>
+    <string name="project_id" translatable="false">soudhi-a65a6</string>
+</resources>
